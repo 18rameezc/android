@@ -5,7 +5,7 @@ Send and receive files over available connections. [FAQ](https://github.com/geno
 [<img src="https://f-droid.org/badge/get-it-on.png" width="230">](https://f-droid.org/packages/com.genonbeta.TrebleShot/) [<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.genonbeta.TrebleShot)
 
 ## Main features
-* Pause, resume and reconnect transfers
+* Pause, resume and reconnect transfers via wi-fi
 * Share large files
 * Share all kinds of content, video, photo, music and app libraries
 * No Internet connection is required: Set up a hotspot and connect to it using a QR code
